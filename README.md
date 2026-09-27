@@ -30,5 +30,4 @@ The analysis involved cleaning the dataset and analyzing sales and profit data u
 - September 2010 recorded the highest monthly sales, at approximately $463,269.
 
 ## Dashboard
-![Retail Sales and Profit Dashboard]
-(Retail-Sales-and-Profit-Dashboard.png)
+![Retail Sales and Profit Dashboard](Retail-Sales-and-Profit-Dashboard.png)
